@@ -17,5 +17,7 @@ filtr.c - there are implemented structures of filters for FIR - direct in floati
 for IIR direct, biquad and lattice in floating and fied point. Some of functions are exported to .dll file and used in python part
 of project.
 
+Tests folder contains images of few filter designs and diferences in characteristics when various structures are used.
+
 
 
