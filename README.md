@@ -13,7 +13,8 @@ of arithmetic (floating point, fixed point arithmetic in Qn.m code) and user can
 levinson is part of spectrum library for some reason when i was writing that program it must be in folder where was FilterDesign.py
 
 Filtering folder:
-filtr.c - there are implemented structures of filters for FIR - direct in floating point and fixed point
+filtr.c - there are implemented structures of filters
+for FIR - direct in floating point and fixed point
 for IIR direct, biquad and lattice in floating and fied point. Some of functions are exported to .dll file and used in python part
 of project.
 
