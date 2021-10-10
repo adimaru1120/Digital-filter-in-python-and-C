@@ -1,6 +1,6 @@
 # Digital-filter-in-python-and-C
 Program to design digital filters and anyze their magnitude characteristics after performing filtering on signal. Because of
-pandemic I simulate work of DSP with program in C and osciloscope, generator etc with program in Python.
+pandemic I simulate work of DSP with program in C (processing of signal) and osciloscope, generator etc with program in Python.
 
 Filter Design folder:
 FilterDesign.py - its purpose is compute coefficients of desired filter it can also display magnitude, phase characteristics
